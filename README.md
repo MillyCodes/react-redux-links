@@ -1,3 +1,5 @@
+## Started this list 10/08/2018 - See checks for progress.
+
 # React/Redux Links
 Curated tutorial and resource links I've collected on React, Redux, ES6, and more, meant to be a collection of high-quality articles and resources for someone who wants to learn about the React-Redux ecosystem, as well as a source for quality information on advanced topics and techniques.  Not quite "awesome", but hopefully useful as a starting point I can give to others.  Suggestions welcome.
 
@@ -77,25 +79,25 @@ All of the links in this collection are worth reading, but there's obviously a L
 ## Basic Concepts and Learning Approaches
 
 ### Overviews of Javascript Tools and Concepts
-  - [State of the Javascript Landscape in 2016](http://www.infoq.com/articles/state-of-javascript-2016)  
-    A very high-level summary of the important terms and technologies that are used in modern Javascript development.
-  - [The \(R\)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/)  
-    A slideshow giving an overview of web dev history and modern web dev tools, technologies, and trends.
-  - [Javascript Package Managers 101](https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a)  
-    An overview of what packages and package managers are, some related terms, and how these tools work.
+  - ✓ ✓[State of the Javascript Landscape in 2016](http://www.infoq.com/articles/state-of-javascript-2016)
+    A very high-level summary of the important terms and technologies that are used in modern Javascript development. ✓
+  - ✓ ✓[The \(R\)Evolution of Web Development](http://blog.isquaredsoftware.com/presentations/2016-10-revolution-of-web-dev/)  
+    A slideshow giving an overview of web dev history and modern web dev tools, technologies, and trends. ✓
+  - ✓ ✓[Javascript Package Managers 101](https://medium.com/@shubheksha/javascript-package-managers-101-9afd926add0a)  
+    An overview of what packages and package managers are, some related terms, and how these tools work. ✓
     
 ### Suggested Learning Approaches
-  - [A Study Plan to Cure Javascript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)  
-    The author of the "State of JS 2016" survey gives an excellent step-by-step study plan to use when learning the Javascript ecosystem.
-  - [Grab Front-End Study Guide](https://github.com/grab/front-end-guide)  
-    An excellent guide to learning front-end technologies, based on "A Study Plan to Cure Javascript Fatigue".  Includes descriptions of each topic, links to learning resources, and estimates for how much time to spend on each topic.
-  - [React How-To](https://github.com/petehunt/react-howto)  
+  - ✓ ✓[A Study Plan to Cure Javascript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)  
+    The author of the "State of JS 2016" survey gives an excellent step-by-step study plan to use when learning the Javascript ecosystem. ✓
+  - ✓ ✓[Grab Front-End Study Guide](https://github.com/grab/front-end-guide)  
+    An excellent guide to learning front-end technologies, based on "A Study Plan to Cure Javascript Fatigue".  Includes descriptions of each topic, links to learning resources, and estimates for how much time to spend on each topic. ✓
+  - ✓ ✓[React How-To](https://github.com/petehunt/react-howto)  
     Pete Hunt, one of React's creators, gives a high-level suggested order to use when learning React-related technologies (React, NPM, bundlers, ES6, routing, and Flux/Redux)
-  - [Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)  
-    [How to Learn React](https://daveceddia.com/how-to-learn-react/)  
+  - ✓ ✓[Timeline for Learning React](https://daveceddia.com/timeline-for-learning-react/)  ✓
+    ✓ ✓[How to Learn React](https://daveceddia.com/how-to-learn-react/)  ✓
     Another high-level suggested timeline for how to approach learning React and related technologies.
-  - [React Roadmap](https://github.com/ericdouglas/react-roadmap)  
-    A curated list of free resources to master React Development, in suggested learning order
+  - ✓ ✓[React Roadmap](https://github.com/ericdouglas/react-roadmap)  
+    A curated list of free resources to master React Development, in suggested learning order ✓
   - [Tips to learn React + Redux](https://www.robinwieruch.de/tips-to-learn-react-redux/)  
     An extensive and excellent list of suggestions to follow when learning and using React and Redux.  Tips include when to use different component patterns, when to bring in a state management library, Redux state structuring, unit testing, and much more.
 
@@ -103,27 +105,28 @@ All of the links in this collection are worth reading, but there's obviously a L
 ## Learning Core Javascript (ES5)
 
 ### General Resources
-  - [Mozilla Developer Network: Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
-    [Mozilla Developer Network: A Re-Introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)  
+  - ✓ ✓[Mozilla Developer Network: Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  ✓ 
+    ✓ ✓[Mozilla Developer Network: A Re-Introduction to Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)  ✓
     Mozilla maintains a fantastic set of developer resources for Web technologies, including a comprehensive reference to the Javascript language and a number of associated tutorials. Their "reintroduction to Javascript" article is a great overview of what the language looks like.
-  - [Eric Elliott's Javascript Resource Lists](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)  
-    [Eric Elliott's Essential Javascript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)  
+  - ✓ ✓[Eric Elliott's Javascript Resource Lists](https://medium.com/javascript-scene/10-priceless-resources-for-javascript-learners-bbf2f7d7f84e)  ✓
+    ✓ ✓ #### [Eric Elliott's Essential Javascript Links](https://gist.github.com/ericelliott/d576f72441fc1b27dace/0cee592f8f8b7eae39c4b3851ae92b00463b67b9)  
     Eric Elliott is a strong proponent of Javascript, has written numerous articles about learning and understanding Javascript, and assembled some very useful lists of numerous Javascript resources. (Strong opinions, but has useful info.)
-  - [Wes Bos's Javascript Resource List](http://wesbos.com/learn-javascript)  
-    Speaker and teacher Wes Bos gives links to a number of resources for learning Javascript
+  - ✓ ✓[Wes Bos's Javascript Resource List](http://wesbos.com/learn-javascript)  
+    Speaker and teacher Wes Bos gives links to a number of resources for learning Javascript ✓
     
 ### Books
-  - [Eloquent Javascript](http://eloquentjavascript.net/)  
-    A full online book teaching Javascript from the ground up. Very recommended.
-  - [You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)  
-    An online book series intended to teach all aspects of Javascript, including the "tougher" parts.
+  - ✓ ✓[Eloquent Javascript](http://eloquentjavascript.net/)```too wordy and computer sciencey for me, coundn't get past first chapter, will go back later.```
+  
+    A full online book teaching Javascript from the ground up. Very recommended. ~✓ 
+  - ✓ ✓[You Don't Know Javascript](https://github.com/getify/You-Dont-Know-JS)  
+    An online book series intended to teach all aspects of Javascript, including the "tougher" parts. ~ read some parts
   - [Exploring Javascript](http://exploringjs.com/)  
     Multiple free online books from Dr. Axel Rauschmayer. "Speaking Javascript" covers all of Javascript through ES5; "Exploring ES6" covers ES6 in depth; and other books look at versions of Javascript after ES6 and how to set up an ES6+ development environment.
 
 
 ## Learning Current Javascript (ES6+)
 
-### ES6 Feature Overviews
+### ES6 Feature Overviews[✓ ✓ ✓ ✓ skimmed this, I feel somewhat comfortable with ES6]
   - [ES6 Overview in 350 Bullet Points](https://ponyfoo.com/articles/es6)  
     Quick samples and descriptions of all the various ES6 capabilities
   - [ES6 Features Comparison](http://es6-features.org/)  
@@ -133,7 +136,7 @@ All of the links in this collection are worth reading, but there's obviously a L
   - [A Rundown of Javascript 2015 Features](https://auth0.com/blog/a-rundown-of-es6-features/)  
     An overview of the features in ES6 and how they can be used.
     
-### In-Depth Details
+### In-Depth Details [✓ ✓ ✓ ✓skipped for now]
   - [ES6 In Depth](https://ponyfoo.com/articles/tagged/es6-in-depth)  
     Many articles covering each feature in greater detail
   - [Exploring ES6](http://exploringjs.com/es6/index.html)  
@@ -145,18 +148,18 @@ All of the links in this collection are worth reading, but there's obviously a L
 If you are new to React, try reading these articles in order. 
 
 ### Getting Started
-  - [React Documentation: Hello World](https://facebook.github.io/react/docs/hello-world.html)  
-    [React Documentation: Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)  
-    The official React documentation, recently rewritten with an excellent set of tutorials, explanations, and API information.
-  - [Create-React-App](https://github.com/facebookincubator/create-react-app)  
-    The official project creation tool from the React team.  Allows you to set up a new React project, with no configuration work required.
-  - [Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)  
-    An excellent set of instructions for setting up a React project with minimal fuss and effort needed.  Includes links to some useful resources, and info on deploying the app to production.
+  - ✓ ✓[React Documentation: Hello World](https://facebook.github.io/react/docs/hello-world.html) ~ ✓ reading at a moderate pace. 
+    ✓ ✓[React Documentation: Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)  
+    The official React documentation, recently rewritten with an excellent set of tutorials, explanations, and API information.  ✓
+  - ✓ ✓[Create-React-App](https://github.com/facebookincubator/create-react-app)  
+    The official project creation tool from the React team.  Allows you to set up a new React project, with no configuration work required.  ✓
+  - ✓ ✓[Simple React Development in 2017](https://hackernoon.com/simple-react-development-in-2017-113bd563691f)  
+    An excellent set of instructions for setting up a React project with minimal fuss and effort needed.  Includes links to some useful resources, and info on deploying the app to production.  ✓ ✓
   - [Modern Web Development with React and Redux](http://blog.isquaredsoftware.com/2017/02/presentation-react-redux-intro/)    
     An up-to-date HTML slideshow that introduces React and Redux, discusses why they help make applications easier to write via declarative code and predictable data flow, and demonstrates their basic concepts and syntax.  Includes several interactive React component examples.
-  - [Learn Raw React](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)  
-    A ground-up React tutorial that leaves out any other related "modern" technologies, Very recommended if you want to skip the buzzwords and acronyms.
-  - [30 Days of React](https://www.fullstackreact.com/30-days-of-react/)  
+  - ✓ ✓[Learn Raw React](http://jamesknelson.com/learn-raw-react-no-jsx-flux-es6-webpack/)  
+    A ground-up React tutorial that leaves out any other related "modern" technologies, Very recommended if you want to skip the buzzwords and acronyms.  ✓ ✓
+  - ✓ ✓[30 Days of React](https://www.fullstackreact.com/30-days-of-react/)   ✓ ✓ started oct 8
     A tutorial series that walks you through how to use React, from the ground up, in 30 bite-size articles covering everything from "What is React?" to data management to testing and deployment.
     
 ### Data Flow: “State” and “Props”
